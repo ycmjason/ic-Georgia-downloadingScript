@@ -1,0 +1,12 @@
+This file is for me to remember how does these python files work. Because I don't want to revisit my crappy code.
+
+STEP 1
+- Configure the file getNotesLinks.py to the correct periods and classes
+STEP 2
+- Run getPdf.py to download the notes
+STEP 3
+- Run getPdf2.py to download the exercises
+
+DONE.
+
+They will update the outdated ones.
